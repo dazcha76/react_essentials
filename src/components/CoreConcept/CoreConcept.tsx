@@ -1,3 +1,5 @@
+import './CoreConcept.css';
+
 type CoreConceptProps = {
   title: string;
   description: string;
